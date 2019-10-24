@@ -14,7 +14,7 @@ def id_generator
   a = {id: 123}
 end
 
-def my_hash_creator(name, value)
+def my_hash_creator(random, value)
   a = {:name => value}
 end
 

@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_generator
-  a = {key: 123}
+  a = {id: 123}
 end
 
 def my_hash_creator(key, value)

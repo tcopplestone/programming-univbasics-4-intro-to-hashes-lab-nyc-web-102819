@@ -15,7 +15,7 @@ def id_generator
 end
 
 def my_hash_creator(random, value)
-  a = {:name => value}
+  a = {:random => value}
 end
 
 def read_from_hash(hash, key)
